@@ -1,0 +1,13 @@
+.four-columns-row {
+  margin: auto;
+  width: 66%;
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.four-columns-col {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
